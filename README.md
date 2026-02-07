@@ -130,10 +130,25 @@
 <details>
 <summary><b>💡 Random Dev Quote</b></summary>
 <br>
+
+<p align="center">
+  <em>✨ Code. Learn. Repeat. Grow every day ✨</em>
+</p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+<p align="center">
+  💬 <i>"Consistency is what turns an average coder into a great engineer."</i>
+</p>
+
+<p align="center">
+  👩‍💻 <b>Girl Coder Mindset:</b> Learning > Fear | Progress > Perfection
+</p>
+
 </details>
+
 
 
 
