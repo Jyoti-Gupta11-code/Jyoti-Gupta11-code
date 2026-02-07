@@ -15,20 +15,14 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="380" src="https://user-images.githubusercontent.com/74038190/238200433-8c3a8a5e-2bb5-4c84-bdf3-7b1bff9a5f06.gif"/>
-
 ## 👩‍💻 About Me  
 
 - 🎓 **B.Tech – Information Technology (2027)**  
 - 💻 Aspiring **Software Engineer**  
 - ☕ Strong foundation in **Java & DSA**  
 - 🌐 Building full-stack apps using **MERN Stack**  
-- 🛠 Tools: **Git, GitHub, VS Code**  
 - 🧠 Solving DSA problems daily on **LeetCode**  
 - 🎯 Preparing for **internships & real-world projects**  
-- ⚡ Fun fact: **Confident girl coder who turns bugs into features 😄**
-
-<br clear="right"/>
 
 ---
 
@@ -38,18 +32,12 @@
   <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,git,github,vscode&perline=6" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Girl-Coder-pink?style=for-the-badge" />
-</p>
-
 ---
 
 ## 🛠️ Working On & Learning 📚  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=🛒+E-Commerce+Website+(MERN);✨+Real-World+Project+Development;🚀+Improving+UI+%26+Backend" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=🛒+E-Commerce+Website+(MERN);🚀+Improving+Frontend+%26+Backend;✨+Real+World+Projects" />
 </p>
 
 <p align="center">
@@ -58,30 +46,19 @@
 
 ---
 
-## 🚀 Projects  
+## 🟩 Green GitHub Graph – Consistency  
 
-### 🛒 E-Commerce Website (MERN Stack)
-- Full-stack web application  
-- User authentication & product listing  
-- Cart & order flow (in progress)  
-
-📌 *More projects coming soon…*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyoti-Gupta11-code&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
-## 📚 Data Structures & Algorithms  
+## 🐍 Contribution Snake Animation  
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-- 💡 Solving DSA problems using **Java**
-- 🎯 Focus Areas:
-  - Arrays & Strings  
-  - Recursion & Backtracking  
-  - Sorting & Searching  
-  - Linked List & Stack  
-- 🧠 Goal: **Strong problem-solving foundation for interviews**
-
-<br clear="right"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jyoti-Gupta11-code/Jyoti-Gupta11-code/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -90,10 +67,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jyoti-Gupta11-code&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jyoti-Gupta11-code&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyoti-Gupta11-code&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -121,4 +94,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 </details>
+
 
