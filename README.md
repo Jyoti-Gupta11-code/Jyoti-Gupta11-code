@@ -128,26 +128,27 @@
 ---
 
 <details>
-<summary><b>💡 Random Dev Quote</b></summary>
+<summary><b>🌸 Developer Thoughts</b></summary>
 <br>
 
 <p align="center">
-  <em>✨ Code. Learn. Repeat. Grow every day ✨</em>
+  🚀 <b>Daily Reminder:</b> Small commits. Big growth.
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 <p align="center">
-  💬 <i>"Consistency is what turns an average coder into a great engineer."</i>
+  🧠 <i>"Great developers are not born — they are built, one commit at a time."</i>
 </p>
 
 <p align="center">
-  👩‍💻 <b>Girl Coder Mindset:</b> Learning > Fear | Progress > Perfection
+  👩‍💻 <b>Girl Coder Energy:</b> Confident • Consistent • Curious
 </p>
 
 </details>
+
 
 
 
