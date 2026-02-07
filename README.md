@@ -100,13 +100,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jyoti-Gupta11-code/Jyoti-Gupta11-code/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
