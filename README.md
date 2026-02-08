@@ -98,8 +98,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyoti-Gupta11-code&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-## 📊 GitHub Stats
-
 <hr>
 
 <h2>📊 GitHub Stats</h2>
