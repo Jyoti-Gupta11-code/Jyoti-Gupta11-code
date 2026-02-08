@@ -98,22 +98,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyoti-Gupta11-code&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jyoti-Gupta11-code/Jyoti-Gupta11-code/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jyoti-Gupta11-code&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jyoti-Gupta11-code&theme=tokyonight" />
+<hr>
+
+<h2>📊 GitHub Stats</h2>
+<p class="center">
+  <img width="49%" src="https://readme-stats-fast.vercel.app/api?username=Jyoti-Gupta11-code&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://streak-stats.vercel.app/?user=Jyoti-Gupta11-code&theme=tokyonight" alt="Streak" />
 </p>
+
+<hr>
 
 ---
 
